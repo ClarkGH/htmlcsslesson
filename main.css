@@ -1,0 +1,26 @@
+#title {
+  text-align: center;
+}
+
+.center {
+  text-align: center;
+}
+
+.about {
+  text-align: center;
+}
+
+.left {
+  display: inline-block;
+  text-align: left;
+}
+
+#spacer {
+  display: inline-block;
+  width: 4em;
+}
+
+.right {
+  display: inline-block;
+  text-align: right;
+}
