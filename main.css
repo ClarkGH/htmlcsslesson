@@ -1,5 +1,15 @@
+body{
+  background-color: #494830;
+}
+
 #title {
   text-align: center;
+}
+
+.title-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .center {
